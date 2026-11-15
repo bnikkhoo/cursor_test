@@ -1,0 +1,4 @@
+row_id,person,user_id,fsp_email,alt_emails,phone,role,minor,group,doc_type,doc_class,expiration,track,stage,tsa_hold,first_asked,last_contact_date,contact_count,reply_status,reply_date,next_action,next_action_date,approval,owner,status,source,notes,updated_at,step_code,day0,snooze_until,thread_message_id
+1,Jane Doe,u1,jane@example.com,,,Student,false,Member documents,Photo ID,photo_id,,chase,day3,false,2026-11-01,2026-11-04,1,none,,send reminder,2026-11-07,,fsp,open,fixture,,2026-11-14,D3,2026-11-04,,
+2,Sam Lee,u2,sam@example.com,,,Email List,false,Member documents,Membership Agreement,membership_agreement,,chase,initial,false,2026-11-10,,,none,,enter profile,,,fsp,open,fixture,,2026-11-14,,2026-11-10,,
+3,Parked Pilot,u3,park@example.com,,,Student,false,Member documents,Medical,medical,,chase,done,false,2026-10-01,2026-10-20,3,none,,,,bobby,complete,fixture,uploaded already,2026-11-01,D14,2026-10-01,,
